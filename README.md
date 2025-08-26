@@ -16,7 +16,7 @@ Inspired by Minecraft, but designed to be **small, fast, and efficient**.
 - 🟢 **Smooth Camera Scrolling** — WASD-based movement with pixel-perfect scrolling.
 - 🟢 **Lightweight & Fast** — Runs on almost any computer, even low-end systems.
 - 🟢 **Open-Source** — Fully customizable and easy to modify.
-
+- 🟢 It works with **NO** game engine. Just pygame.
 
 > NOTE : This version is not expected to receive updates. Instead, development will move to a first-person 3D OpenGL version ( MiniCraft-3D ) . This is a preview release.
 
