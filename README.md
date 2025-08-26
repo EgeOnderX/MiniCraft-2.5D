@@ -1,6 +1,6 @@
 # MiniCraft 2.5D
 
-**MiniCraft 2.5D** is a lightweight **sandbox block-based world simulator** built with **Python** and **Pygame**.  
+**MiniCraft 2.5D** is a lightweight **sandbox block-based world simulator** built with ** Pure Python** and **Pygame**.  
 It features a smooth **2.5D isometric perspective**, optimized rendering, and customizable world sizes for better performance.  
 Inspired by Minecraft, but designed to be **small, fast, and efficient**.
 
