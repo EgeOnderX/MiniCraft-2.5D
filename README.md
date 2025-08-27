@@ -1,4 +1,4 @@
-# MiniCraft 2.5D
+# MiniCraft 2.5D v1.0.1
 
 **MiniCraft 2.5D** is a lightweight **sandbox block-based world simulator** built with ** Pure Python** and **Pygame**.  
 It features a smooth **2.5D isometric perspective**, optimized rendering, and customizable world sizes for better performance.  
@@ -11,12 +11,25 @@ Inspired by Minecraft, but designed to be **small, fast, and efficient**.
 ## 🚀 Features
 
 - 🟢 **2.5D Isometric View** — Smooth semi-3D perspective rendering.
-- 🟢 **32×32×32 World Size** — Perfect balance between performance and playability.
+- 🟢 **64×64×64 World Size** — Perfect balance between performance and playability.
 - 🟢 **Customizable World Settings** — Change resolution, tile size, and world dimensions easily.
 - 🟢 **Smooth Camera Scrolling** — WASD-based movement with pixel-perfect scrolling.
 - 🟢 **Lightweight & Fast** — Runs on almost any computer, even low-end systems.
 - 🟢 **Open-Source** — Fully customizable and easy to modify.
 - 🟢 It works with **NO** game engine. Just pygame.
+
+
+---
+
+## What's New?
+- Increased FPS
+- Much improved water physics
+- FPS boost by not rendering invisible blocks
+- Added stone block
+- Added pond generation
+- Added lines to tree trunks
+- Fixed bug where placing a block in front would delete the one behind
+- Fixed bug where placing a block in front would simultaneously place the one behind
 
 
 ---
@@ -43,10 +56,10 @@ Inspired by Minecraft, but designed to be **small, fast, and efficient**.
 |------------------|--------------|---------------------------|
 | **SCREEN_WIDTH** | `1024`       | Game window width         |
 | **SCREEN_HEIGHT**| `768`        | Game window height        |
-| **TILE_SIZE**    | `32`         | Size of each block (px)   |
-| **MAP_SIZE_X**   | `32`         | Horizontal world size     |
-| **MAP_SIZE_Y**   | `32`         | Vertical world size       |
-| **MAP_SIZE_Z**   | `32`         | Height layers             |
+| **TILE_SIZE**    | `64`         | Size of each block (px)   |
+| **MAP_SIZE_X**   | `64`         | Horizontal world size     |
+| **MAP_SIZE_Y**   | `64`         | Vertical world size       |
+| **MAP_SIZE_Z**   | `64`         | Height layers             |
 | **FPS**          | `60`         | Target framerate          |
 | **BLOCK_HEIGHT** | `16`         | Isometric depth offset    |
 | **CAMERA_SPEED** | `8`          | Camera movement speed     |
@@ -58,7 +71,7 @@ Inspired by Minecraft, but designed to be **small, fast, and efficient**.
 ## Visuals
 
 
-<img width="1020" height="792" alt="image" src="https://github.com/user-attachments/assets/dbe2968c-3af3-4c51-96fc-346930c4d1dd" />
+
 
 
 
