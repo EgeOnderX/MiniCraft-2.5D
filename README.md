@@ -11,7 +11,7 @@ Inspired by Minecraft, but designed to be **small, fast, and efficient**.
 ## 🚀 Features
 
 - 🟢 **2.5D Isometric View** — Smooth semi-3D perspective rendering.
-- 🟢 **X64×Y64×Z64 World Size** — Perfect balance between performance and playability.
+- 🟢 **X45×Y45×Z16 World Size** — Perfect balance between performance and playability.
 - 🟢 **Customizable World Settings** — Change resolution, tile size, and world dimensions easily.
 - 🟢 **Smooth Camera Scrolling** — WASD-based movement with pixel-perfect scrolling.
 - 🟢 **Lightweight & Fast** — Runs on almost any computer, even low-end systems.
@@ -29,7 +29,7 @@ Inspired by Minecraft, but designed to be **small, fast, and efficient**.
 - Added lines to tree trunks
 - Fixed bug where placing a block in front would delete the one behind
 - Fixed bug where placing a block in front would simultaneously place the one behind
-- Prevented ponds from forming at the edges of the map
+- F2: New World, F1: Save, F3: Load. **WARNING**: Saves always overwrite map1. Change its name after saving!
 
 
 ---
