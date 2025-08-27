@@ -17,6 +17,7 @@ Inspired by Minecraft, but designed to be **small, fast, and efficient**.
 - 🟢 **Lightweight & Fast** — Runs on almost any computer, even low-end systems.
 - 🟢 **Open-Source** — Fully customizable and easy to modify.
 - 🟢 It works with **NO** game engine. Just pygame.
+- 🟢 It uses **voxel** map system.
 
 
 ---
