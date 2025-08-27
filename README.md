@@ -26,6 +26,7 @@ Inspired by Minecraft, but designed to be **small, fast, and efficient**.
 - Much improved water physics
 - Added stone block
 - Added pond generation
+- Added big tree spawn
 - Added lines to tree trunks
 - Fixed bug where placing a block in front would delete the one behind
 - Fixed bug where placing a block in front would simultaneously place the one behind
@@ -44,26 +45,10 @@ Inspired by Minecraft, but designed to be **small, fast, and efficient**.
 | **D**            | Move camera right      |
 | **Left Click**   | Interact / Place block |
 | **Right Click**  | Remove block           |
-| **1,2,3**        | Select block           |
+| **1,2,3,4,5**    | Select block           |
 
 
-> NOTE: Supported blocks are: water, leaf, soil
----
-
-## ⚡ Default Game Settings
-
-| Setting          | Default Value | Description              |
-|------------------|--------------|---------------------------|
-| **SCREEN_WIDTH** | `1024`       | Game window width         |
-| **SCREEN_HEIGHT**| `768`        | Game window height        |
-| **TILE_SIZE**    | `64`         | Size of each block (px)   |
-| **MAP_SIZE_X**   | `64`         | Horizontal world size     |
-| **MAP_SIZE_Y**   | `64`         | Vertical world size       |
-| **MAP_SIZE_Z**   | `64`         | Height layers             |
-| **FPS**          | `60`         | Target framerate          |
-| **BLOCK_HEIGHT** | `16`         | Isometric depth offset    |
-| **CAMERA_SPEED** | `8`          | Camera movement speed     |
-| **TREE_SPAWN**   | `1`          | Spawns only 1 tree in map |
+> NOTE: Supported blocks are: water, leaf, soil, stone
 
 ---
 
@@ -71,7 +56,13 @@ Inspired by Minecraft, but designed to be **small, fast, and efficient**.
 ## Visuals
 
 
+<img width="1018" height="794" alt="image" src="https://github.com/user-attachments/assets/a7f4da6a-7489-4284-a901-d21766681893" />
 
+
+---
+
+
+<img width="727" height="89" alt="image" src="https://github.com/user-attachments/assets/c2dfbd07-96b3-402a-8bc7-750a0884d37f" />
 
 
 
